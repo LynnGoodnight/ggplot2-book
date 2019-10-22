@@ -59,7 +59,7 @@ This dataset suggests many interesting questions. How are engine size and fuel e
 
 1.  List five functions that you could use to get more information about the
     `mpg` dataset.
-    
+    summary,str,table,ncol,nrow,is.na
 1.  How can you find out what other datasets are included with ggplot2?
     
 1.  Apart from the US, most countries use fuel consumption (fuel consumed
